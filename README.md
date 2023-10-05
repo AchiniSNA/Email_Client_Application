@@ -43,7 +43,7 @@ The Java Email Client is a command-line-based application designed to simplify e
 * User Interface: "EClient.java" serves as the user interface for the application, allowing 
   users to interact with the email client.
 * Java Mail Implementation: "SendEmails.java" handles the sending of emails.
-* Object Serialization and Deserialization: "Serialize_Deserialize.java" is responsible for efficient 
+* Object Serialization and Deserialization: "ObjController.java" is responsible for efficient 
   storage and retrieval of email data using object serialization and deserialization.
   
 ### Prerequisites
