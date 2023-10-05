@@ -1,0 +1,10 @@
+Office_friends.class
+Email_Client.class
+Recipient.class
+Personal.class
+ClientListController.class
+Email$SMTPAuthenticator.class
+ObjectController.class
+BdayMessageController.class
+Email.class
+Official.class
