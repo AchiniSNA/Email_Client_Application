@@ -42,7 +42,7 @@ The Java Email Client is a command-line-based application designed to simplify e
 
 * User Interface: "EClient.java" serves as the user interface for the application, allowing 
   users to interact with the email client.
-* Java Mail Implementation: "Send_Mail.java" handles the sending of emails.
+* Java Mail Implementation: "SendEmails.java" handles the sending of emails.
 * Object Serialization and Deserialization: "Serialize_Deserialize.java" is responsible for efficient 
   storage and retrieval of email data using object serialization and deserialization.
   
@@ -53,7 +53,7 @@ The Java Email Client is a command-line-based application designed to simplify e
   
 ### General Constraints
 
-* To send emails using the application, you must provide a valid sender email ID and its corresponding password within the "Send_Mail.java" file. This information is required for authentication with the email server.
+* To send emails using the application, you must provide a valid sender email ID and its corresponding password within the "SendEmails.java" file. This information is required for authentication with the email server.
 * To generate an application-specific password, please follow the instructions provided by your email service provider. For example, instructions for generating a Gmail application-specific password can be found at https://support.google.com/mail/answer/185833?hl=en.
 
 
